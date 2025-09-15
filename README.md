@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Nobel Prize Analysis 🏆
 
 This project analyzes Nobel Prize data to uncover trends in gender, category, and geography using Python.
@@ -14,3 +15,4 @@ This project analyzes Nobel Prize data to uncover trends in gender, category, an
 
 ## Notebook
 See the analysis in [notebook.ipynb](notebook.ipynb).
+
