@@ -16,3 +16,11 @@ This project analyzes Nobel Prize data to uncover trends in gender, category, an
 ## Notebook
 See the analysis in [notebook.ipynb](notebook.ipynb).
 
+## Key Insights
+
+📊 Female Nobel laureates over time:
+![Female laureates trend](images/female_laureates.png)
+
+🌍 Nobel Prizes by country:
+![Nobel prizes by country](images/nobel_by_country.png)
+
